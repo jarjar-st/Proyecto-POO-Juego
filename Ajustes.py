@@ -1,7 +1,7 @@
 largo=600
 ancho=480
 FPS=60
-titulo="MATENME ALV"
+titulo="Proyecto POO"
 
 #Datos
 Jugador_ACE = 0.5
